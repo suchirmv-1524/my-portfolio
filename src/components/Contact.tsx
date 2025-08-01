@@ -92,7 +92,7 @@ const Contact = () => {
             <div className="terminal-dot red"></div>
             <div className="terminal-dot yellow"></div>
             <div className="terminal-dot green"></div>
-            <span className="ml-4 glow-cyan text-2xl">09. Contact</span>
+            <span className="ml-4 glow-cyan text-2xl">08. Contact</span>
           </div>
 
           <div className="space-y-8">
