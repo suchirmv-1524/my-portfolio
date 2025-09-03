@@ -8,10 +8,23 @@ const TargetIcon = () => (
 const Achievements = () => {
   const achievements = [
     {
+      title: "Flipkart Grid 7.0",
+      description: "National Semi-Finalist among top 10% of participants nationwide",
+      icon: <TargetIcon />,
+      color: "neon-blue"
+    },
+
+    {
       title: "IBM Z Datathon 2024",
       description: "Raffle Prize Winner among 466 teams in the Sustainable Development Track",
       icon: <TargetIcon />,
       color: "neon-green"
+    },
+    {
+      title: "The Great Bengaluru Hackathon",
+      description: "Top 9 out of 27 teams in the Multilingual Loan Advisory Track in a national level hackathon",
+      icon: <TargetIcon />,
+      color: "neon-orange"
     },
     {
       title: "People's Conference '23",
@@ -30,12 +43,6 @@ const Achievements = () => {
       description: "Top 7 out of 52 teams in Capture The Flag by the Cyber Security Club of our college",
       icon: <TargetIcon />,
       color: "neon-blue"
-    },
-    {
-      title: "The Great Bengaluru Hackathon",
-      description: "Top 9 out of 27 teams in the Multilingual Loan Advisory Track in a national level hackathon",
-      icon: <TargetIcon />,
-      color: "neon-orange"
     }
   ];
 

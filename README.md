@@ -1,4 +1,4 @@
-# My Portfolio Website
+<h1 align="center">My Portfolio Website</h1>
 
 ## Overview  
 A place where I showcase my projects, achievements and ideas with the community.  
