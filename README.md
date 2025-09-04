@@ -37,7 +37,7 @@ To set up this project locally, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/suchirmv-1524/portfolio.git
+git clone https://github.com/suchirmv-1524/my-portfolio.git
 ```
 
 ### 2. Install dependencies:
